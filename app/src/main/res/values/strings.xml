@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">My Movies</string>
+
+    <string name="reviewer_name">Reviewer Name</string>
+    <string name="sort_by_popularity">Sort By Popularity</string>
+    <string name="sort_by_top_rated">Sort By Top Rated</string>
+    <string name="sort_by_favourite">Sort By Favourite</string>
+    <string name="detail">Detail Screen</string>
+    <string name="movie_title">Movie Title</string>
+    <string name="overview">Overview</string>
+    <string name="detail_screen">Detail Screen</string>
+    <string name="home_name">A-Z Movies</string>
+    <string name="fav_activity">Favourites</string>
+    <string name="isAdult">18+</string>
+    <string name="isNotAdult">PG-13</string>
+
+</resources>

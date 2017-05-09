@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="card_view_elevation">12dp</dimen>
+    <dimen name="card_view_layout_margin">3dp</dimen>
+    <dimen name="card_view_conner_radius">5dp</dimen>
+    <dimen name="reviewr_card_elevation">5dp</dimen>
+    <dimen name="reviewer_text_size">17sp</dimen>
+    <dimen name="overview_text_size">15dp</dimen>
+    <dimen name="image_size">50dp</dimen>
+    <dimen name="review_text_size">10sp</dimen>
+
+</resources>

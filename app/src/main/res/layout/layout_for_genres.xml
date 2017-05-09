@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal" android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/image_text_background">
+
+    <TextView
+        android:text="action"
+        android:textColor="@color/White"
+        style="@style/year_theme"
+        android:id="@+id/first_genre"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <view
+        android:layout_width="0dp"
+        android:layout_height="20dp"
+        style="@style/year_theme"/>
+
+    <TextView
+        android:text="love"
+        style="@style/year_theme"
+        android:id="@+id/second_genre"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+</LinearLayout>
